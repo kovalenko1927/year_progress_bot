@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from progress_bar_mod import progress_bar
 
-bot = telebot.TeleBot('5901511204:AAFXuzwkrCLnuVWkx8aOh9ettrFBH-d0dy8')
+bot = telebot.TeleBot('***********************')
 
 
 @bot.message_handler(commands=['start'])
